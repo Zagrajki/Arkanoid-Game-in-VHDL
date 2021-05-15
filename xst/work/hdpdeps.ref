@@ -1,0 +1,49 @@
+V3 24
+FL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/game1new.vhd" 2021/05/14.00:15:50 P.20131013
+EN work/game1new 1620944156 \
+      FL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/game1new.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/game1new/Behavioral 1620944157 \
+      FL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/game1new.vhd" \
+      EN work/game1new 1620944156
+FL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/game2.vhd" 2021/05/14.00:28:39 P.20131013
+EN work/game2 1620975175 \
+      FL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/game2.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/game2/Behavioral 1620975176 \
+      FL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/game2.vhd" EN work/game2 1620975175
+FL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/game3.vhd" 2021/05/14.09:07:10 P.20131013
+EN work/game3 1620976071 \
+      FL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/game3.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/game3/Behavioral 1620976072 \
+      FL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/game3.vhd" EN work/game3 1620976071
+FL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/picture.vhd" 2021/01/30.16:43:55 P.20131013
+EN work/picture 1615316752 \
+      FL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/picture.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/picture/Behavioral 1615316753 \
+      FL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/picture.vhd" \
+      EN work/picture 1615316752
+FL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga.vhf" 2021/03/09.20:05:45 P.20131013
+EN work/vga 1615316756 \
+      FL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga.vhf" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/vga/BEHAVIORAL 1615316757 \
+      FL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga.vhf" EN work/vga 1615316756 \
+      CP picture CP vga_driver
+FL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_driver.vhd" 2021/03/17.17:58:13 P.20131013
+EN work/vga_driver 1616000562 \
+      FL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_driver.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/vga_driver/Behavioral 1616000563 \
+      FL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_driver.vhd" \
+      EN work/vga_driver 1616000562
+FL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_driver1.vhd" 2021/03/22.22:18:15 P.20131013
+EN work/vga_driver1 1616447905 \
+      FL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_driver1.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/vga_driver1/Behavioral 1616447906 \
+      FL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_driver1.vhd" \
+      EN work/vga_driver1 1616447905

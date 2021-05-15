@@ -1,0 +1,5 @@
+set -tmpdir "d:/Users/Mati/Desktop/5 semestr/syf/wtorektest/xst/projnav.tmp"
+set -xsthdpdir "d:/Users/Mati/Desktop/5 semestr/syf/wtorektest/xst"
+elaborate
+-ifn vga_driver1.prj
+-ifmt mixed

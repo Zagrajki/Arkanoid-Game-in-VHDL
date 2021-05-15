@@ -1,0 +1,4 @@
+select figure at 153 768 8 -branches -sn=1
+select figure at 153 768 8 -branches -all -sn=1
+move iomarker at 192 784 to 480 1376 R180 -keepConn -sn=1
+undo

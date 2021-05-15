@@ -1,0 +1,16 @@
+vhdtdtfi -lib work vga_driver.vhd -prj wtorektest -o vga_driver.spl -module vga_driver -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e vga_driver.spl {d:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_driver.sym} 
+vhdtdtfi -lib work vga_driver.vhd -prj wtorektest -o vga_driver.spl -module vga_driver -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e vga_driver.spl {d:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_driver.sym} 
+vhdtdtfi -lib work vga_driver.vhd -prj wtorektest -o vga_driver.spl -module vga_driver -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e vga_driver.spl {d:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_driver.sym} 
+vhdtdtfi -prj wtorektest -o "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_driver.vhi" -module vga_driver -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work vga_driver.vhd 
+vhdtdtfi -lib work vga_driver.vhd -prj wtorektest -o vga_driver.spl -module vga_driver -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e vga_driver.spl {d:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_driver.sym} 
+vhdtdtfi -lib work vga_driver.vhd -prj wtorektest -o vga_driver.spl -module vga_driver -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e vga_driver.spl {d:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_driver.sym} 
+vhdtdtfi -prj wtorektest -o "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_driver.vhi" -module vga_driver -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work vga_driver.vhd 
+vhdtdtfi -lib work vga_driver.vhd -prj wtorektest -o vga_driver.spl -module vga_driver -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e vga_driver.spl {d:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_driver.sym} 
+vhdtdtfi -lib work vga_driver.vhd -prj wtorektest -o vga_driver.spl -module vga_driver -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e vga_driver.spl {d:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_driver.sym} 

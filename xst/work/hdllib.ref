@@ -1,0 +1,14 @@
+AR game3 behavioral "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/game3.vhd" sub00/vhpl13 1620976072
+AR game1new behavioral "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/game1new.vhd" sub00/vhpl09 1620944157
+AR vga_driver behavioral "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_driver.vhd" sub00/vhpl03 1616000563
+EN game2 NULL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/game2.vhd" sub00/vhpl10 1620975175
+EN game3 NULL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/game3.vhd" sub00/vhpl12 1620976071
+EN vga NULL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga.vhf" sub00/vhpl04 1615316756
+EN vga_driver1 NULL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_driver1.vhd" sub00/vhpl06 1616447905
+AR picture behavioral "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/picture.vhd" sub00/vhpl01 1615316753
+AR vga behavioral "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga.vhf" sub00/vhpl05 1615316757
+EN vga_driver NULL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_driver.vhd" sub00/vhpl02 1616000562
+AR game2 behavioral "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/game2.vhd" sub00/vhpl11 1620975176
+EN game1new NULL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/game1new.vhd" sub00/vhpl08 1620944156
+EN picture NULL "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/picture.vhd" sub00/vhpl00 1615316752
+AR vga_driver1 behavioral "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_driver1.vhd" sub00/vhpl07 1616447906

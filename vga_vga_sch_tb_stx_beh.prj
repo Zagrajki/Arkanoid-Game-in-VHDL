@@ -1,0 +1,4 @@
+vhdl isim_temp "vga_driver1.vhd"
+vhdl isim_temp "game3.vhd"
+vhdl isim_temp "vga.vhf"
+vhdl isim_temp "VGA_tb.vhd"

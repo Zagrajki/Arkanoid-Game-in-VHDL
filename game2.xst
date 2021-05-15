@@ -1,0 +1,5 @@
+set -tmpdir "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/xst/projnav.tmp"
+set -xsthdpdir "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/xst"
+elaborate
+-ifn game2.prj
+-ifmt mixed

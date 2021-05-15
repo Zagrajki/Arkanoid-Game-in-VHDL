@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_vga_sch_tb_isim_beh.exe" -prj "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_vga_sch_tb_beh.prj" "work.vga_vga_sch_tb" 

@@ -1,0 +1,4 @@
+vhdl work "vga_driver1.vhd"
+vhdl work "game3.vhd"
+vhdl work "vga.vhf"
+vhdl work "VGA_tb.vhd"

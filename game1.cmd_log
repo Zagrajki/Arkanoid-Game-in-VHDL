@@ -1,0 +1,4 @@
+vhdtdtfi -lib work game1.vhd -prj wtorektest -o game1.spl -module game1 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e game1.spl {d:/Users/Mati/Desktop/5 semestr/syf/wtorektest/game1.sym} 
+vhdtdtfi -lib work game1.vhd -prj wtorektest -o game1.spl -module game1 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e game1.spl {D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/game1.sym} 

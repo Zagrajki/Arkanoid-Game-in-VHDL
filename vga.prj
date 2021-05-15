@@ -1,0 +1,3 @@
+vhdl work "vga_driver.vhd"
+vhdl work "picture.vhd"
+vhdl work "vga.vhf"
