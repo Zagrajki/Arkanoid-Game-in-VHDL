@@ -33,8 +33,8 @@ END vga_vga_sch_tb;ARCHITECTURE behavioral OF vga_vga_sch_tb IS
   signal VGA_B     : std_logic;
   signal VGA_RDY     : std_logic;
 
-  constant SIM_FRAMES : positive := 90;           -- frames simulated
-  constant BMP_FRAMES : natural  := 90;           -- frames written to BMP files
+  constant SIM_FRAMES : positive := 30;           -- frames simulated
+  constant BMP_FRAMES : natural  := 30;           -- frames written to BMP files
 
   constant BMP_FILE   : string := "frame";       -- BMP file name (without extension)
 

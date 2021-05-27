@@ -121,7 +121,7 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1622138846" xil_pn:in_ck="3432716650018763307" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1622138846">
+    <transform xil_pn:end_ts="1622142144" xil_pn:in_ck="3432716650018763307" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1622142144">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="VGA_tb.vhd"/>
@@ -146,7 +146,7 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1622138846" xil_pn:in_ck="8118813902256196347" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1622138846">
+    <transform xil_pn:end_ts="1622142144" xil_pn:in_ck="8118813902256196347" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1622142144">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="VGA_tb.vhd"/>
@@ -159,7 +159,7 @@
       <outfile xil_pn:name="vga_driver.vhd"/>
       <outfile xil_pn:name="vga_driver1.vhd"/>
     </transform>
-    <transform xil_pn:end_ts="1622138860" xil_pn:in_ck="8118813902256196347" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="3180356519907529109" xil_pn:start_ts="1622138846">
+    <transform xil_pn:end_ts="1622142157" xil_pn:in_ck="8118813902256196347" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="3180356519907529109" xil_pn:start_ts="1622142144">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="fuse.log"/>
@@ -169,7 +169,7 @@
       <outfile xil_pn:name="vga_vga_sch_tb_isim_beh.exe"/>
       <outfile xil_pn:name="xilinxsim.ini"/>
     </transform>
-    <transform xil_pn:end_ts="1622138861" xil_pn:in_ck="-6445649551217639826" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-3552697992141430302" xil_pn:start_ts="1622138860">
+    <transform xil_pn:end_ts="1622142158" xil_pn:in_ck="-6445649551217639826" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-3552697992141430302" xil_pn:start_ts="1622142157">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="isim.cmd"/>
