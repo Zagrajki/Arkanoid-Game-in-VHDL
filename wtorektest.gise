@@ -51,6 +51,7 @@
     <file xil_pn:fileType="FILE_XST" xil_pn:name="game3.xst"/>
     <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
     <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
     <file xil_pn:fileType="FILE_SPL" xil_pn:name="picture.spl"/>
     <file xil_pn:fileType="FILE_SYMBOL" xil_pn:name="picture.sym" xil_pn:origination="imported"/>
     <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="vga.bld"/>
@@ -120,7 +121,7 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1620977010" xil_pn:in_ck="3432716650018763307" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1620977010">
+    <transform xil_pn:end_ts="1622138846" xil_pn:in_ck="3432716650018763307" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1622138846">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="VGA_tb.vhd"/>
@@ -145,7 +146,7 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1620977016" xil_pn:in_ck="8118813902256196347" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1620977016">
+    <transform xil_pn:end_ts="1622138846" xil_pn:in_ck="8118813902256196347" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1622138846">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="VGA_tb.vhd"/>
@@ -158,19 +159,21 @@
       <outfile xil_pn:name="vga_driver.vhd"/>
       <outfile xil_pn:name="vga_driver1.vhd"/>
     </transform>
-    <transform xil_pn:end_ts="1620977024" xil_pn:in_ck="8118813902256196347" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="3180356519907529109" xil_pn:start_ts="1620977016">
+    <transform xil_pn:end_ts="1622138860" xil_pn:in_ck="8118813902256196347" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="3180356519907529109" xil_pn:start_ts="1622138846">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="fuse.log"/>
       <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
       <outfile xil_pn:name="vga_vga_sch_tb_beh.prj"/>
       <outfile xil_pn:name="vga_vga_sch_tb_isim_beh.exe"/>
       <outfile xil_pn:name="xilinxsim.ini"/>
     </transform>
-    <transform xil_pn:end_ts="1620977024" xil_pn:in_ck="-6445649551217639826" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-3552697992141430302" xil_pn:start_ts="1620977024">
+    <transform xil_pn:end_ts="1622138861" xil_pn:in_ck="-6445649551217639826" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-3552697992141430302" xil_pn:start_ts="1622138860">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
       <outfile xil_pn:name="vga_vga_sch_tb_isim_beh.wdb"/>
     </transform>
     <transform xil_pn:end_ts="1615316744" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1615316744">

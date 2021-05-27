@@ -1,5 +1,5 @@
 ISim log file
-Running: D:\Users\Mati\Desktop\5 semestr\syf\wtorektest\vga_vga_sch_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_vga_sch_tb_isim_beh.wdb 
+Running: D:\Users\Mati\Desktop\5 semestr\syf\wtorektest\vga_vga_sch_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb d:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_vga_sch_tb_isim_beh.wdb 
 ISim P.20131013 (signature 0x7708f090)
 WARNING: A WEBPACK license was found.
 WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
@@ -19,4 +19,4 @@ HS Pulse Width: 3.84 us
 HS Period: 32 us
 VS Pulse Width: 64 us
 VS Period: 16.672 ms
-Stopped at time : 71914 us : File "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_driver1.vhd" Line 90
+Stopped at time : 502932240 ns : File "D:/Users/Mati/Desktop/5 semestr/syf/wtorektest/vga_driver1.vhd" Line 90

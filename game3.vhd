@@ -47,9 +47,9 @@ signal hit_right : STD_LOGIC := '0';
 signal hit_down : STD_LOGIC := '0';
 signal hit_left : STD_LOGIC := '0';
 
-signal ballx : integer range 0 to 640 := 50;
-signal bally : integer range 0 to 480 := 475;
-signal ballm : integer range 0 to 16 := 8;
+signal ballx : integer range 0 to 640 := 3;
+signal bally : integer range 0 to 480 := 375;
+signal ballm : integer range 0 to 16 := 12;
 signal ballh : STD_LOGIC := '0';
 constant balls : positive := 4;
 
@@ -767,10 +767,10 @@ begin
 				(ballx=0 and bally=480) or (ballx=640 and bally=480) or hit_rare = '1') then
 				--bricky01 <= NOT bricky01;
 				change_direction_hit_rare(ballm);
-		elsif (bally <= 0 or hit_up = '1') then
+		elsif (hit_up = '1') then
 			--bricky02 <= NOT bricky02;
 			change_direction_hit_up(ballm);
-		elsif(640 <= ballx+balls or hit_right = '1') then
+		elsif(ballx <= 0 or hit_right = '1') then
 			--bricky03 <= NOT bricky03;
 			change_direction_hit_right(ballm);
 		elsif(480 <= bally+balls) then
@@ -778,10 +778,10 @@ begin
 			--change_direction_hit_down(ballm);
 			won_lost <= '0';
 			ballm <= 16;
-		elsif(hit_down = '1') then
+		elsif(bally <= 0 or hit_down = '1') then
 			--bricky04 <= NOT bricky04;
 			change_direction_hit_down(ballm);
-		elsif(ballx <= 0 or hit_left = '1') then
+		elsif(640 <= ballx+balls or hit_left = '1') then
 			--bricky05 <= NOT bricky05;
 			change_direction_hit_left(ballm);
 		end if;
